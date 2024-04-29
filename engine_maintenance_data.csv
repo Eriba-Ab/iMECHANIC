@@ -1,0 +1,1001 @@
+Engine Temperature,Engine RPM,Mileage,Engine Air Filter,Engine Oil Level,Transmission Fluid Level,Coolant Level,Maintenance Prediction
+99.16207091,926,51041,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+100.4523779,1302,105306,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+90.92328058,1149,896,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+98.63006741,957,36349,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+99.23192889,2401,191023,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.42037541,1422,5064,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+97.03666644,1434,70860,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+103.6990652,808,60491,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.1194259,2198,54262,Clean,Optimal,Good,Normal,Engine Maintenance
+97.71917247,2354,44580,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+90.02385103,2526,72727,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.8346206,2637,103429,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.31527706,1361,149302,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.73184647,2603,154548,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+92.98508904,959,125926,Clean,Optimal,Low,Normal,Fluid Check
+96.39337353,886,183674,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+93.00345201,1889,82386,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.4754148,1624,36258,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+99.12380071,2048,118602,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+104.1046998,1754,168699,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+100.4759601,1267,188341,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.53297456,900,157702,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.0948801,1655,3766,Clean,Optimal,Good,Normal,Engine Maintenance
+91.2517135,1103,41572,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+100.3950107,604,79373,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+101.4585335,1609,113947,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+101.1725423,812,26146,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+92.56285485,1658,81544,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.6667835,2649,131562,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+91.09823843,2387,101540,Clean,Optimal,Low,Low,Fluid Check
+103.6502538,1765,45290,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+90.17570901,645,6627,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+103.7463705,2989,73689,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+99.80671829,1729,127641,Clean,Optimal,Low,Low,Fluid Check
+94.3304253,2103,124488,Clean,Low,Good,Normal,Oil Change
+103.3886147,2313,31478,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+102.9498868,1293,180933,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+93.29372904,1385,75616,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+96.35652276,1994,145027,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+99.09274149,2312,128778,Clean,Low,Good,Normal,Oil Change
+95.76849343,856,173543,Clean,Low,Good,Normal,Oil Change
+103.4813809,1779,77395,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+104.1591323,1392,17374,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.9360443,1626,162346,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+100.7158986,2196,29045,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+90.55587837,1209,42311,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+97.99969256,1814,139841,Clean,Optimal,Good,Low,Fluid Check
+97.66809162,1713,35664,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+104.1966226,1504,151887,Clean,Optimal,Good,Normal,Engine Maintenance
+92.56933793,666,31126,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+93.04415322,2708,24291,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+95.56576727,1439,155822,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+102.1104939,1803,47287,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+90.79693899,2571,97353,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+90.18498935,730,164361,Clean,Optimal,Low,Normal,Fluid Check
+96.23655615,1137,136698,Clean,Low,Good,Normal,Oil Change
+98.48021526,1643,82758,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.70820973,2682,132682,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.10871375,2186,57479,Clean,Optimal,Low,Normal,Fluid Check
+93.79032241,676,133937,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.12343057,1107,64544,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+92.71542162,1353,11016,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.85508617,927,161340,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+93.96484438,2066,144111,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+101.6489466,2170,37750,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.55849823,1958,136200,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+92.19828858,703,198138,Clean,Optimal,Good,Normal,
+102.8330625,2372,16905,Clean,Optimal,Good,Normal,Engine Maintenance
+90.83449662,2388,143540,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+103.2595984,2442,28280,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.5092405,2323,133827,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.1845162,621,130919,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.99527728,2247,31690,Clean,Optimal,Low,Low,Fluid Check
+91.04883221,1409,145403,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+102.5572678,1093,5141,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+94.39074459,2094,19144,Dirty,Optimal,Good,Normal,Filter Replacement
+96.33895631,1512,62517,Dirty,Optimal,Good,Normal,Filter Replacement
+103.635747,2285,22638,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+94.912827,2346,170439,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+97.97557009,815,157100,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.32926699,1449,173810,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+102.2448703,682,139938,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+98.02774003,1858,182110,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.8831134,1098,136684,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+91.78267624,1227,25002,Clean,Optimal,Good,Low,Fluid Check
+94.49994979,2760,195961,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+96.0658509,2174,22598,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+101.7222137,2796,10115,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.00307294,1363,195859,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+103.3666672,643,31912,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.445715,2068,152461,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.15006487,1326,171180,Clean,Optimal,Low,Low,Fluid Check
+91.97938456,1599,137589,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.5881333,2014,157895,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.9969087,2533,80399,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+99.80373869,1327,89153,Clean,Optimal,Good,Normal,
+100.6767035,2570,62288,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+103.619325,1272,168184,Clean,Optimal,Good,Normal,Engine Maintenance
+95.91556954,2275,96944,Clean,Optimal,Low,Low,Fluid Check
+101.3154216,2532,77251,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.89945858,1218,79180,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+102.2282847,1268,15531,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+92.06255941,1054,143129,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+93.96966728,1100,92488,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.6242403,2563,58260,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+93.32792094,2922,86616,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+90.16928689,1045,53680,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+95.2336606,1243,132851,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+90.82041838,894,167926,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+91.36345081,1394,2204,Clean,Optimal,Low,Low,Fluid Check
+103.9268144,1584,149689,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+103.9429694,1909,138542,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.3270976,1877,195376,Dirty,Optimal,Good,Normal,Filter Replacement
+98.23407352,2704,25597,Clean,Optimal,Good,Normal,Engine Maintenance
+99.82314432,1131,118989,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.5420828,1874,126335,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.4490626,1060,873,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+102.8224982,750,97900,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.22959944,2531,145362,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+95.1471463,1040,124416,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+99.163576,996,188555,Clean,Optimal,Low,Normal,Fluid Check
+93.53528404,2477,61075,Clean,Optimal,Good,Low,Fluid Check
+100.4116012,2104,83503,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+95.91447413,1168,194703,Clean,Low,Good,Normal,Oil Change
+102.3085615,874,96591,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.9340895,865,91887,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.38105493,900,108359,Clean,Low,Good,Normal,Oil Change
+93.45737238,1701,70147,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.95422771,1563,1573,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+93.7309008,876,45195,Clean,Optimal,Good,Normal,
+104.5671977,1297,167718,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+92.94412385,2478,115445,Dirty,Optimal,Good,Normal,Filter Replacement
+99.00718938,1091,60923,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+100.6910831,2117,145232,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.25704365,2713,106768,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+98.3111871,1131,139720,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+93.05288344,1471,178529,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+94.53653011,2088,177355,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+104.8022202,913,87231,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+93.18299046,2218,147596,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+103.9826415,1250,5859,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.87553077,2184,194371,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+97.79206712,2924,104193,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+90.39203969,1172,128821,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+94.85775736,2751,103281,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.3249627,2569,133555,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+95.68358919,1195,13039,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+104.6717583,2507,23098,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+98.89925321,1302,106914,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+94.87900169,1777,159669,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+92.07614162,1411,124939,Clean,Optimal,Good,Low,Fluid Check
+97.39206235,2630,5518,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+92.32594302,890,157132,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+100.5714823,2875,21690,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.76015136,877,18857,Clean,Low,Good,Normal,Oil Change
+104.4205194,1161,177211,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.52103181,2196,63934,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.6055198,931,181195,Clean,Optimal,Good,Normal,Engine Maintenance
+90.98211842,2373,22782,Clean,Optimal,Good,Low,Fluid Check
+90.86449972,1516,58150,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+93.68435529,2461,100710,Dirty,Optimal,Good,Normal,Filter Replacement
+95.96383429,910,11156,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.0598165,1664,94985,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.91841564,1084,172810,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+94.30404253,1985,197978,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+91.02683691,1828,33110,Clean,Optimal,Low,Low,Fluid Check
+98.57107048,761,117963,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+94.37784244,1379,94642,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+92.81791008,726,92931,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+90.08091655,1946,16404,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+101.3555866,2110,166567,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+97.61039024,847,140529,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+90.86090698,2283,107234,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+90.21642274,1798,7305,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+98.50582749,658,3818,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.3453535,2219,68880,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+100.5451286,1639,181290,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.5170639,904,21960,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.83387985,1479,100794,Clean,Optimal,Good,Normal,
+97.92678532,1941,124338,Dirty,Optimal,Good,Normal,Filter Replacement
+93.23937254,1630,175672,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.750407,774,161661,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+97.4819058,2030,92967,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+104.3033229,1440,175749,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.4790518,2057,153314,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+101.9381885,1710,19326,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+103.0339297,2368,62509,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.09143023,1005,174605,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+93.57976858,955,151582,Clean,Optimal,Good,Normal,
+90.34764381,2287,123239,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+101.7627956,1417,144727,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.49826752,1266,109460,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.746006,2699,118827,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+95.79926034,693,18085,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+99.96905785,2352,76740,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+103.1144526,2037,195909,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+90.10013626,1390,184122,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+94.8539035,1020,78846,Clean,Optimal,Good,Low,Fluid Check
+100.0933275,1048,5368,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+98.63439659,2985,89148,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+91.52708929,1227,197723,Clean,Optimal,Low,Low,Fluid Check
+91.49684323,687,70244,Clean,Optimal,Low,Normal,Fluid Check
+102.9912472,2337,179098,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+102.5315173,1693,81289,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+93.59270799,1989,150861,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+90.91058795,1933,82820,Clean,Optimal,Good,Normal,
+101.3992957,1480,73263,Clean,Optimal,Good,Normal,Engine Maintenance
+99.23662095,1470,196421,Clean,Optimal,Low,Normal,Fluid Check
+103.908476,1038,11404,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.45364265,2174,79599,Clean,Optimal,Good,Normal,
+96.80566735,2672,146262,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+91.65200148,1513,93895,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.74059852,1810,2703,Clean,Low,Good,Normal,Oil Change
+100.0303958,1628,4697,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+101.2269938,1523,66814,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.91133997,2638,199018,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+103.1701592,786,90278,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+97.19060119,1867,142665,Clean,Optimal,Good,Low,Fluid Check
+101.6104428,2484,45330,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.43955144,2404,21282,Clean,Low,Good,Normal,Oil Change
+93.59053319,922,29996,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+96.6694711,2541,123617,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+94.10391092,896,40767,Dirty,Optimal,Good,Normal,Filter Replacement
+92.79816322,686,134644,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.79449481,2409,173224,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.51876533,1427,48017,Clean,Optimal,Low,Low,Fluid Check
+92.74179014,2377,188963,Dirty,Optimal,Good,Normal,Filter Replacement
+91.09120177,1272,30550,Clean,Optimal,Good,Normal,
+91.85088199,940,40034,Dirty,Optimal,Good,Normal,Filter Replacement
+99.25752624,1958,6600,Clean,Optimal,Low,Normal,Fluid Check
+94.699144,2605,157039,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.7068992,2521,163569,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+90.59480204,1521,117812,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+101.467131,2919,39696,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+95.24182342,2654,92708,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+96.40901146,2727,15735,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.37642836,2934,170259,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+101.3434839,2274,134531,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+97.77445784,1903,124990,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+102.2993663,2399,1565,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+90.30588025,1972,42282,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.52469488,2281,140863,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+93.85279357,2507,180865,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.092355,1110,111713,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.7793504,2757,171053,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+100.9490698,1141,71064,Clean,Optimal,Good,Normal,Engine Maintenance
+100.1076766,2705,95061,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+93.82035882,2199,150116,Dirty,Optimal,Good,Normal,Filter Replacement
+95.69247367,2148,130101,Clean,Optimal,Good,Low,Fluid Check
+95.22652389,1485,187982,Clean,Optimal,Low,Normal,Fluid Check
+93.10360099,1761,121757,Clean,Optimal,Good,Low,Fluid Check
+103.5648215,618,158570,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+94.46290607,980,835,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+104.2436955,1730,97851,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.36294617,2027,184521,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+100.4232676,1153,60799,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.3098218,1594,79136,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.146222,1334,3815,Dirty,Optimal,Good,Normal,Filter Replacement
+96.57764861,1293,36854,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.13793978,2281,165243,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+91.13996328,831,148970,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+98.70159789,2346,128579,Clean,Optimal,Good,Low,Fluid Check
+91.16424302,2226,25874,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+90.03360774,2807,95352,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+102.9638487,1431,56435,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+103.8354862,1502,53987,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+90.78462295,2996,140369,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.21320562,2695,26950,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+94.24991047,785,170303,Clean,Optimal,Good,Low,Fluid Check
+96.20742449,1782,7966,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+103.9745986,1761,13652,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+90.69254651,1723,161569,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+96.995271,1937,46376,Clean,Optimal,Good,Normal,
+97.5504972,870,135672,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.0732933,1922,176090,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.59547733,1234,150444,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+103.2979108,693,165117,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.8578526,1521,195971,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+93.98777531,1499,126587,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.72341652,2740,17956,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+96.52299084,1399,100173,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.27850315,2242,110369,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+96.95069661,893,199140,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+98.40623947,2551,70013,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.9875738,1797,171964,Clean,Optimal,Good,Normal,Engine Maintenance
+97.91298306,1835,173794,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+100.3796036,2892,42026,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+97.5847022,2417,128138,Clean,Low,Good,Normal,Oil Change
+100.7840376,1112,26430,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+91.33691332,2220,107926,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+103.7453781,2576,1311,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.05121369,1049,4549,Clean,Optimal,Good,Normal,
+101.2356465,1744,139716,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+92.59021666,2624,9081,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.9939628,1683,190052,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+99.33597566,2069,175018,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.9928739,2272,80794,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+91.4736372,737,139081,Clean,Low,Good,Normal,Oil Change
+90.87817428,1806,148047,Clean,Low,Good,Normal,Oil Change
+94.15857269,2468,120547,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+91.17519001,1804,26756,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+90.20740925,1145,39427,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.34210468,2737,193087,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+93.5313026,2199,95517,Clean,Optimal,Low,Normal,Fluid Check
+95.98441808,2278,140531,Clean,Optimal,Low,Low,Fluid Check
+104.8478538,1043,127876,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+98.50610914,2177,139974,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+102.015207,2486,159971,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.36993807,907,156945,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+90.57677741,1886,25958,Clean,Optimal,Low,Normal,Fluid Check
+98.12200684,2810,126007,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.8199045,670,28268,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.5817908,1913,184470,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+92.73483909,889,192363,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+98.31085899,916,60803,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+91.95080674,820,141050,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+99.58542474,675,41142,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+103.7060653,2608,58707,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+97.88592873,2512,186129,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+90.71248869,2125,51344,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+92.66129775,1379,86502,Clean,Optimal,Good,Normal,
+92.07355344,1117,146094,Clean,Optimal,Good,Normal,
+103.5127076,2650,52193,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.80135612,913,185901,Clean,Low,Good,Normal,Oil Change
+103.1200571,1102,72645,Clean,Optimal,Good,Normal,Engine Maintenance
+94.79805016,2076,69947,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+93.3754721,1191,26505,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+97.57550004,2534,94178,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.84257592,2311,110974,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+94.14795101,1134,60752,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+93.18485667,2397,86923,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+103.8079759,1966,124302,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.63771744,784,51904,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+101.3097176,998,114423,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.74471572,640,140509,Clean,Low,Good,Normal,Oil Change
+91.60724183,2011,96378,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+97.157065,1757,75461,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+92.21687758,2065,134376,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+104.1809479,2279,191513,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+97.3521655,1915,171371,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.6674515,1032,108785,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.7325344,901,111115,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+90.02529839,899,165455,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+92.57978872,2683,58101,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.80948052,1948,63169,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+101.8023613,1849,136657,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.22674393,1831,3272,Clean,Optimal,Low,Low,Fluid Check
+97.92152441,2376,119539,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+103.3864103,1020,20596,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+95.17077698,2393,132458,Clean,Low,Good,Normal,Oil Change
+90.32404496,1579,131657,Dirty,Optimal,Good,Normal,Filter Replacement
+91.30730787,2780,74548,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.8324793,879,189177,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+102.7573807,1443,174700,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.03490725,2442,19394,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+101.8692329,1573,84975,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.42245168,2706,175742,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+102.0794588,2870,118281,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+104.7213549,2742,123132,Clean,Optimal,Good,Normal,Engine Maintenance
+93.35657025,1408,103303,Dirty,Optimal,Good,Normal,Filter Replacement
+104.2116377,1956,178840,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.95307583,1217,84945,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.47795651,776,160246,Dirty,Optimal,Good,Normal,Filter Replacement
+103.7101633,1507,101428,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+102.9124483,2483,179968,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+92.48337388,2253,158939,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.5431422,2750,93188,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+104.4995016,762,182184,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.82754475,1036,186957,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.967906,2153,154571,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+92.62780129,1930,197528,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.38605019,686,39637,Dirty,Optimal,Good,Normal,Filter Replacement
+100.5136403,2762,15737,Clean,Optimal,Good,Normal,Engine Maintenance
+94.48946626,2550,171184,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.2594651,2684,67096,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.0715195,1680,102470,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.68728672,1649,100810,Clean,Optimal,Low,Normal,Fluid Check
+98.20760583,808,6067,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.5292147,1992,127146,Clean,Optimal,Good,Normal,Engine Maintenance
+93.97156787,1537,131049,Clean,Optimal,Low,Low,Fluid Check
+98.39448248,2844,144078,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.55799198,1885,72354,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.0228923,2511,63212,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+93.82067471,1420,142264,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+96.02289805,2141,59244,Dirty,Optimal,Good,Normal,Filter Replacement
+91.90378079,608,32133,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+90.77712649,1335,147933,Dirty,Optimal,Good,Normal,Filter Replacement
+91.3324149,2187,52293,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+94.47083005,2329,33652,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+96.01158504,1412,79044,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+99.83918887,827,123212,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.00607028,613,156495,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.18658643,886,191117,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.9328488,1653,167487,Clean,Optimal,Good,Normal,Engine Maintenance
+96.18248464,2499,26604,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.08396994,2405,67704,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+92.49492098,1475,88270,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+102.3147364,1116,186847,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+101.9380676,896,120670,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.87461573,1676,40738,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+101.4016753,2895,14845,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.04368825,1693,56854,Clean,Optimal,Low,Low,Fluid Check
+95.5175944,2394,181580,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+99.12467203,2601,78305,Clean,Optimal,Good,Normal,Engine Maintenance
+94.71375576,2029,182146,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+103.9056804,1357,121768,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.06244734,1434,31391,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+95.5089294,1813,17190,Clean,Low,Good,Normal,Oil Change
+102.2981071,1835,90550,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.5208547,2256,160650,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.81161015,785,31076,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+99.62373849,1680,144010,Clean,Optimal,Good,Low,Fluid Check
+99.43496124,2251,58612,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+104.3247105,2727,146181,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+97.62289554,2331,120458,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.9683464,2543,49523,Clean,Optimal,Good,Normal,Engine Maintenance
+97.3688491,2576,132278,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+96.12408105,2003,144028,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.29257174,2186,118536,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.60246247,1890,157411,Clean,Optimal,Good,Normal,
+101.8840436,843,32102,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+98.10720628,2247,86478,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+100.423607,681,181441,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+96.37045119,1390,113399,Clean,Optimal,Low,Low,Fluid Check
+100.7521013,992,110027,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.17543495,1595,25467,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.38246034,2002,147522,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+96.24640378,2098,60628,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+104.7733928,2211,56324,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+92.10846985,738,129026,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+95.05390875,1986,50820,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+97.04986296,659,130486,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+96.51633395,1219,193560,Dirty,Optimal,Good,Normal,Filter Replacement
+93.42907317,1915,7754,Clean,Optimal,Low,Low,Fluid Check
+98.32339747,2482,88674,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+90.17428057,2694,65047,Clean,Optimal,Good,Normal,Engine Maintenance
+100.5693919,1828,145849,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+90.37087804,1354,188449,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+101.4141673,2108,116365,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.9462243,2189,141061,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.8353897,1936,87468,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.32330976,1246,177425,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+94.36622298,2381,17774,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+99.7003349,1825,170988,Clean,Optimal,Good,Low,Fluid Check
+97.00927348,2036,99877,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+101.6932607,2166,125747,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+95.66112455,818,116878,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+94.8964676,2550,22346,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+93.34461504,1735,120357,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+94.29438534,1177,85767,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+96.2103628,2380,111294,Clean,Low,Good,Normal,Oil Change
+96.60300521,638,598,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+103.6344221,2910,118229,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+92.86366851,915,111016,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+92.32507221,1664,30028,Clean,Low,Good,Normal,Oil Change
+98.48702068,723,136308,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+91.45913085,2693,76824,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.74035007,716,183446,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.837761,2938,173707,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+102.6876295,2247,141100,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+97.319637,2227,193601,Clean,Optimal,Good,Normal,
+99.67500554,694,164745,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+90.75036994,694,150140,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+97.57318516,2539,33324,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.3386638,2535,75587,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+103.0170459,1486,89907,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.5965696,1704,80016,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.5041814,2426,77511,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+97.90596964,1643,91909,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+90.0418023,1452,47529,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+91.94013054,2180,135248,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+91.19861959,1450,29316,Clean,Low,Good,Normal,Oil Change
+104.769693,1374,143321,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+91.50980683,2110,199993,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+93.0386915,1427,92314,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+95.74393111,1882,76838,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.12483637,1020,40353,Clean,Optimal,Low,Low,Fluid Check
+101.8301688,912,53939,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+104.6224653,2684,61951,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+90.35839663,2242,67652,Clean,Optimal,Good,Normal,
+97.49748715,2646,27776,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.21961768,2506,108893,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.25931748,1181,32767,Clean,Optimal,Good,Low,Fluid Check
+92.444133,2685,13472,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+99.68786319,600,83593,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+90.9070054,1707,123673,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+100.9776094,941,112709,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+95.15706901,1445,71657,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+98.01959834,2966,105908,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+91.53411415,2753,143274,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+92.31522054,1660,140351,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+98.86125478,821,120400,Clean,Low,Good,Normal,Oil Change
+101.3129524,1635,191993,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+103.4109977,1910,60471,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+90.49112336,2343,26479,Clean,Low,Good,Normal,Oil Change
+99.49560805,693,24944,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+92.42297064,2787,45927,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.20271934,1649,64560,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+103.0507821,1283,7864,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+95.52771191,1537,22825,Clean,Optimal,Low,Normal,Fluid Check
+101.423168,1988,60924,Clean,Optimal,Good,Normal,Engine Maintenance
+104.2377505,961,31864,Clean,Optimal,Good,Normal,Engine Maintenance
+95.52244607,1913,53808,Clean,Low,Good,Normal,Oil Change
+102.6441516,1317,185958,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+100.9678823,900,151855,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+90.11382176,2654,91010,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+99.41715084,1785,21944,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+102.6469676,1399,180479,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+99.94545793,2902,181104,Clean,Optimal,Good,Normal,Engine Maintenance
+93.0572554,1780,192468,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.51187019,1280,178046,Clean,Optimal,Low,Low,Fluid Check
+101.1997541,2425,114376,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+104.8030281,2189,172419,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+103.4688256,1472,68309,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+91.51505876,2649,175671,Clean,Optimal,Good,Normal,Engine Maintenance
+100.8758928,1775,33629,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+103.0470537,801,71844,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+104.036629,1422,194532,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+97.99340823,2560,61675,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+101.7949462,620,60226,Clean,Optimal,Good,Normal,Engine Maintenance
+92.42610396,1124,120887,Dirty,Optimal,Good,Normal,Filter Replacement
+98.51902823,636,25652,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+100.1890569,932,190941,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+103.3352326,1513,42596,Clean,Optimal,Good,Normal,Engine Maintenance
+98.33677942,2138,91871,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.43947285,2382,147213,Clean,Low,Good,Normal,Oil Change
+90.6267859,2531,18093,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+104.1744986,1241,3407,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+97.35884865,1993,98672,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.04657865,2277,101841,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+91.91768435,2391,31395,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+102.6534049,2450,85037,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.8909555,2474,152042,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+103.7655364,2951,115754,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+92.19622646,1303,140540,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+103.4921361,1846,189189,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+93.31463407,1410,87225,Clean,Optimal,Good,Low,Fluid Check
+93.02414857,2511,20422,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+100.0242397,2017,96576,Clean,Optimal,Good,Normal,Engine Maintenance
+95.04364025,1338,89539,Clean,Optimal,Good,Low,Fluid Check
+104.6642379,2914,191876,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.31118139,1827,137555,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+101.5820363,2945,27013,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.80503169,2427,112515,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+90.72447851,1900,197241,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+94.36535496,2278,19904,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+100.9268618,705,188872,Clean,Optimal,Good,Normal,Engine Maintenance
+91.63694328,2615,155511,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+102.3696875,2592,67010,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.2044187,806,66222,Clean,Optimal,Good,Normal,Engine Maintenance
+101.1715845,1707,79731,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+103.1917833,2250,184531,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.8148655,1368,61332,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+100.5420994,1903,164573,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+100.227332,2861,161921,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+100.2615057,1134,183105,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+103.2725812,2834,91539,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.2878411,2177,13852,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+98.94730996,2370,65867,Clean,Optimal,Good,Normal,
+102.5375797,1456,110521,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.2564956,1336,106690,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.5208771,2205,179735,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+95.82385422,966,143457,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.913447,1185,111058,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.7975145,2209,37555,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+90.81852867,1157,6899,Clean,Optimal,Low,Normal,Fluid Check
+100.7459187,2762,441,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.46602138,1861,188593,Dirty,Optimal,Good,Normal,Filter Replacement
+99.90500789,1380,51048,Clean,Optimal,Low,Normal,Fluid Check
+103.733938,886,28428,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+100.2484364,849,58928,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+101.5306296,2355,10386,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.1043225,2959,131114,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+98.37963298,792,142153,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+91.66855789,2881,16836,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.57634074,1361,29941,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+93.6946751,2796,36304,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.7138232,2760,129326,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+94.22405128,2478,184316,Clean,Optimal,Low,Normal,Fluid Check
+102.5369809,2248,37709,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+95.88503369,2194,44606,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+97.70782125,2545,159182,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.77346838,1114,130903,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.37589298,2665,189519,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+93.30922124,973,131695,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+94.6725035,2666,26392,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+92.80306582,1667,92501,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.57496941,2255,98026,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+104.5195857,2484,167072,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+96.50925071,871,4522,Clean,Optimal,Good,Normal,
+102.3382665,697,86946,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+98.40266061,2442,21373,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+103.25739,2230,172458,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.8871737,2814,53604,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.5702849,2599,158826,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+100.5125816,1431,24724,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.6553632,1942,84141,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+93.59704161,1600,120637,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+92.65200975,2831,64320,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.75614032,1983,162665,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+96.00783456,2169,57473,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+94.63872976,1633,14361,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+97.88283392,2126,85972,Clean,Optimal,Good,Low,Fluid Check
+96.97824756,1653,121302,Clean,Optimal,Good,Low,Fluid Check
+103.1874671,2421,82319,Clean,Optimal,Good,Normal,Engine Maintenance
+100.6846383,2676,155070,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+92.80356304,1262,174281,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+102.828872,718,166671,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.3793567,1241,42069,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+100.1305166,1373,96693,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+104.4684053,865,180861,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+101.6950507,1911,194547,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+99.96113317,2372,154273,Clean,Low,Good,Normal,Oil Change
+99.57743408,808,66247,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.93871561,2862,147054,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+94.78365781,2825,130450,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+90.54905055,2665,168037,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+95.0104176,2057,55646,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.59054682,2275,156446,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+97.49188408,2658,150192,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.5108688,1506,150165,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+93.86500573,2535,66410,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+97.66726687,2349,95970,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+102.4918981,2012,35412,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+104.0836754,2904,13653,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+92.33413377,1392,103902,Clean,Low,Good,Normal,Oil Change
+97.34206252,2532,130556,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+97.73392095,2884,187097,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.61274925,2227,4270,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+91.7146553,761,91271,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.18698353,1493,144733,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.23778119,1206,166973,Dirty,Optimal,Good,Normal,Filter Replacement
+91.34395244,1042,67572,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+95.08480953,1433,47449,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+102.3092302,923,46650,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+103.0010245,1678,7714,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.7735609,1143,2800,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+90.53390113,1208,4273,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+97.5080239,721,42844,Clean,Low,Good,Normal,Oil Change
+91.50841551,652,33625,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.836271,692,138491,Dirty,Optimal,Good,Normal,Filter Replacement
+96.27623095,1962,18572,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.9603069,2453,146386,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+99.09772374,2167,51014,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+102.9049244,931,123299,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+99.35990984,1389,136700,Clean,Optimal,Good,Normal,
+100.808007,2170,7413,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.78504393,917,116563,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+104.2509676,888,171091,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+101.1989861,1135,93846,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.68586843,618,1158,Clean,Optimal,Low,Normal,Fluid Check
+91.50133697,2322,11348,Dirty,Optimal,Good,Normal,Filter Replacement
+94.32161896,1162,167167,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+99.25913646,1369,48508,Clean,Optimal,Good,Normal,
+96.80557757,755,166526,Clean,Optimal,Low,Normal,Fluid Check
+97.82077237,2251,43591,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+103.8838957,1492,87138,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+96.61226415,2079,91319,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+98.25472,2178,150259,Dirty,Optimal,Good,Normal,Filter Replacement
+101.9126784,2849,29897,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+104.8867125,2393,35623,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.8838598,2484,26571,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+104.4232914,1703,62901,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.35965856,2512,119141,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+95.63671016,2719,76231,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+102.5304582,1387,175423,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.0747726,965,142293,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+91.68034776,1419,194584,Dirty,Optimal,Good,Normal,Filter Replacement
+103.7420559,2975,164592,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.49921,2329,41413,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.65465418,2170,191863,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+95.11991063,2102,186981,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+99.41372486,2086,114753,Clean,Low,Good,Normal,Oil Change
+102.6481295,2304,54425,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+96.25739475,630,31741,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.91363377,666,36377,Dirty,Optimal,Good,Normal,Filter Replacement
+97.81648894,1081,22311,Clean,Low,Good,Normal,Oil Change
+92.29853917,1365,59765,Clean,Optimal,Good,Normal,
+99.12502147,1973,83690,Clean,Optimal,Good,Low,Fluid Check
+103.713113,1484,121073,Clean,Optimal,Good,Normal,Engine Maintenance
+91.48642756,720,103608,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+97.12628751,2110,87687,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+92.46993246,1254,172146,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+95.80865683,1338,92622,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+94.75772435,2628,189149,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+91.43321566,1800,73519,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+99.71752793,1137,46950,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+95.67107217,1842,80740,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+104.5123228,2181,112032,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+95.79977855,1262,140998,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+100.4688555,2171,45686,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.8306064,2632,140534,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.70433166,2666,198223,Clean,Optimal,Good,Normal,Engine Maintenance
+93.45871753,915,120867,Dirty,Optimal,Good,Normal,Filter Replacement
+95.03877056,2149,198064,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+94.92451238,1356,29164,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.13199672,752,88398,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+90.69795881,1727,198201,Clean,Low,Good,Normal,Oil Change
+92.51702387,1083,34286,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+95.89736528,2615,103962,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+98.45233649,2243,106001,Clean,Low,Good,Normal,Oil Change
+99.68348822,668,93605,Dirty,Optimal,Good,Normal,Filter Replacement
+95.71836462,2336,188622,Dirty,Optimal,Good,Normal,Filter Replacement
+93.48463472,2204,172685,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+98.52973103,2711,135120,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.5219715,1151,108302,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+90.98127481,2912,60731,Clean,Optimal,Good,Normal,Engine Maintenance
+99.10217905,2271,129244,Clean,Optimal,Good,Normal,
+95.14540043,997,190622,Clean,Optimal,Low,Low,Fluid Check
+104.7167567,2786,121118,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+90.25175985,2354,104270,Clean,Optimal,Good,Normal,
+93.08939187,1537,76146,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+102.407419,2698,8888,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+96.34394494,1589,94476,Clean,Optimal,Low,Low,Fluid Check
+100.8849741,1032,111615,Clean,Optimal,Good,Normal,Engine Maintenance
+90.11758698,2105,54674,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+95.57409172,844,79566,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+93.7857568,2309,88989,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+94.14668769,2616,112674,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.58048271,1280,141910,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+97.81624236,2960,137700,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.08102086,2110,198588,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+101.5321467,1791,100749,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.2525036,1591,192660,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+104.6204328,1828,69165,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+104.279543,2341,65908,Clean,Optimal,Good,Normal,Engine Maintenance
+94.7097663,2015,87439,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.08603187,1159,136554,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.956409,2943,2314,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+98.11694097,1788,112390,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+97.89867744,2830,23018,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+102.9794945,2316,188607,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+98.77701553,1124,12363,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+104.408289,768,173840,Clean,Optimal,Good,Normal,Engine Maintenance
+98.3638756,2197,87468,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+94.1027536,2446,44185,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+97.10951456,1711,54313,Clean,Optimal,Good,Normal,
+94.67540981,1534,101193,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+101.3660424,1108,77758,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+104.2362696,1486,167957,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.03835468,1339,168167,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.79902307,2649,26631,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+103.1818759,2461,163854,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+104.6620144,2415,180166,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.52340821,1606,2194,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+98.70721202,2247,128240,Clean,Optimal,Low,Low,Fluid Check
+97.01262408,1917,121935,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+97.82395462,2144,91913,Clean,Optimal,Good,Low,Fluid Check
+92.98424092,2094,99815,Dirty,Optimal,Good,Normal,Filter Replacement
+97.47835901,1095,111228,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+90.55515637,2197,17366,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+96.02005804,2021,10310,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+97.23994773,2201,79085,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+97.6829446,1529,17269,Clean,Optimal,Good,Low,Fluid Check
+103.4043036,1856,149178,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+94.42481869,2513,85495,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+96.47282946,1586,19835,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+92.09425633,1982,29231,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+96.3800961,1090,105401,Dirty,Optimal,Good,Normal,Filter Replacement
+91.76966689,1839,20635,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+93.00270017,1807,158746,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+94.21003125,1634,187618,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+100.3719061,2754,29367,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+102.5224965,1184,17653,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.3422867,655,154843,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+101.9363608,1559,121935,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+95.58013309,781,186122,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+96.52070615,2611,20849,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+95.85302768,2654,3636,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.2594295,929,179640,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+102.5616979,2548,186258,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+103.399505,899,96765,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+97.26678642,1049,70169,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+104.7336389,2717,15461,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+91.78324287,2950,71787,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+103.1377755,1145,77012,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.9998936,1913,101874,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+91.30630986,2767,148992,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+92.47570015,820,197232,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.09128474,2423,180786,Clean,Low,Good,Normal,Oil Change
+98.61385481,1498,33418,Clean,Optimal,Good,Normal,
+102.2191753,1641,57885,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+104.4864437,1387,71562,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.91325602,2989,84433,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.46189603,1210,7890,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+97.44556951,2572,164841,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+96.95144283,2987,17491,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.3976405,1410,142904,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+90.52642953,1997,107052,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+95.36009649,2391,143207,Clean,Optimal,Low,Low,Fluid Check
+92.06492992,1053,161576,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+99.32989512,1993,174505,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+100.3878468,1959,39776,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+95.17969523,1682,10672,Dirty,Optimal,Good,Normal,Filter Replacement
+92.62854925,893,156791,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+103.644426,2395,73812,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.8906398,1740,48544,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+92.2165322,2086,174373,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+90.018144,1121,43603,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+95.74635671,2069,37516,Clean,Optimal,Low,Low,Fluid Check
+90.71922594,1024,24010,Clean,Low,Good,Normal,Oil Change
+97.17405155,930,51671,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+92.28221644,2161,13988,Clean,Optimal,Low,Normal,Fluid Check
+97.83372716,704,51914,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+91.32997677,712,17287,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+104.9997603,2043,95091,Clean,Optimal,Good,Normal,Engine Maintenance
+92.24373726,1137,95822,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+103.2950735,1605,56412,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+104.2467786,1979,154933,Clean,Optimal,Good,Normal,Engine Maintenance
+102.7075312,1343,86673,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+96.9929634,2963,98556,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+94.03640191,748,148926,Dirty,Optimal,Good,Normal,Filter Replacement
+96.92181043,2395,42660,Clean,Low,Good,Normal,Oil Change
+104.0993789,2143,3046,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+90.73579609,1467,115185,Dirty,Optimal,Good,Normal,Filter Replacement
+104.9933147,2716,43481,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+92.52765174,2269,38041,Clean,Optimal,Good,Low,Fluid Check
+94.40900924,618,128760,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+96.60332842,2137,106389,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+93.81471294,999,68839,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+91.47174966,2594,141556,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.85545495,1830,66914,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+103.1902497,1390,167878,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+97.23003301,1210,24592,Clean,Optimal,Low,Low,Fluid Check
+96.57386386,1680,31445,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+90.01275005,692,7082,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+91.09764796,1100,72198,Dirty,Optimal,Good,Normal,Filter Replacement
+101.5771704,2846,108496,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+93.40309588,1860,71761,Clean,Optimal,Low,Low,Fluid Check
+101.5926131,1560,196414,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+95.01994283,2429,181024,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+103.1377804,2582,105576,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.7457895,2251,30547,Clean,Optimal,Low,Low,Fluid Check
+98.4692835,1606,42939,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+95.06792011,2996,63836,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+101.1717276,1242,70543,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+94.68198773,2867,20972,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+93.47230568,615,48814,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+91.47641449,2412,107901,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+94.16731211,1718,164947,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+95.80637557,2017,38447,Clean,Optimal,Good,Normal,
+102.872904,2962,162508,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.29303222,1548,153820,Clean,Low,Good,Normal,Oil Change
+97.48667656,2906,55513,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+91.09977032,1446,197359,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+92.68138719,616,111927,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+98.92112219,1517,52099,Clean,Optimal,Good,Normal,
+103.4826723,1564,64337,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.26829113,847,170541,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.83347439,746,168226,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+96.71324294,2090,113218,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+93.4103032,2485,58132,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+97.98550699,1011,190682,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+102.9658727,1961,139287,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+91.26995196,2057,193875,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+99.66372542,1014,16646,Clean,Optimal,Good,Normal,
+91.51996994,2591,30923,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+103.8732395,2364,71858,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+96.47198513,2840,38820,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.0316163,1356,108535,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.67779857,1166,183706,Clean,Optimal,Low,Low,Fluid Check
+92.80949284,1407,125051,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+94.477859,1190,112216,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+94.84392737,1308,109298,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+91.65562603,1411,172869,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+92.25541036,995,100708,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+90.40993668,2619,14709,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+98.77165413,1541,1746,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+103.9872833,910,183874,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+95.37685065,2650,50499,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+104.0278232,690,68041,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+95.49860142,2021,115144,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+97.15123545,724,172893,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+94.20483999,2877,71948,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+99.93559887,2243,162890,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+101.9509285,1186,89218,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+104.4329531,1792,67305,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.88889506,2925,32171,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.5202415,1720,169706,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+95.53018297,2947,39164,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.97113857,1038,112001,Clean,Optimal,Low,Normal,Fluid Check
+90.89315472,2060,14550,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+104.1575623,2652,9243,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.491405,653,42904,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.3142303,2908,58551,Clean,Low,Good,Normal,"Engine Maintenance, Oil Change"
+97.57635573,2532,125491,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+102.4577514,752,136295,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+94.98340625,910,132021,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+90.99343055,1232,51396,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.85463497,2125,52150,Clean,Optimal,Low,Normal,Fluid Check
+103.5769775,803,75817,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.45173116,2324,153809,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+98.80292051,2558,101897,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+93.60232158,2864,50672,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+99.00851153,2065,20872,Clean,Optimal,Low,Low,Fluid Check
+104.802585,1698,47521,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.1107739,2037,35040,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+100.6033296,1273,13821,Clean,Optimal,Good,Normal,Engine Maintenance
+90.43684202,2409,187055,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+103.2352775,2880,176235,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+94.15785476,1401,66898,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+98.3432143,621,64497,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+100.9638177,1619,64462,Clean,Optimal,Good,Normal,Engine Maintenance
+103.507496,2286,833,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+103.0586221,1038,97247,Clean,Optimal,Good,Normal,Engine Maintenance
+101.5003833,1464,175170,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+91.89299171,1593,138147,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+100.8346951,2480,28649,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+100.5291194,1463,34578,Clean,Low,Low,Normal,"Engine Maintenance, Oil Change, Fluid Check"
+95.49043259,2132,162990,Clean,Optimal,Low,Low,Fluid Check
+103.8740081,2987,83013,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.86474644,1090,150093,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+103.3910224,2006,8368,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+101.0017279,1383,3336,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+93.10059823,865,18912,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+94.46227276,2626,191282,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.61819861,2171,157119,Dirty,Optimal,Good,Normal,Filter Replacement
+92.02385957,1951,2806,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+102.4403283,1706,116846,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+97.81643274,651,125950,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+94.0930329,1758,119535,Clean,Optimal,Low,Low,Fluid Check
+93.24313249,2217,99680,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+104.1180921,2467,198997,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+96.13604626,668,34963,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+91.70957014,1421,49509,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+94.72942555,1727,95872,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+95.5854848,2683,60941,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.7777905,1453,76130,Dirty,Optimal,Good,Normal,Filter Replacement
+100.889962,1568,63557,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.37869156,897,191593,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+91.47634565,1488,80461,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+93.24403163,2151,177830,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+91.39543149,1451,64681,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+92.08518259,820,168857,Clean,Low,Good,Normal,Oil Change
+98.12996564,2883,140984,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+91.33248138,2213,53904,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+104.7409948,719,89395,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.86324741,770,141775,Clean,Optimal,Good,Low,Fluid Check
+91.55392965,1463,85877,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+93.8295036,2906,27142,Clean,Low,Good,Low,"Engine Maintenance, Oil Change, Fluid Check"
+97.2927813,1011,144262,Dirty,Optimal,Good,Normal,Filter Replacement
+97.95966689,2418,125540,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+92.08053911,2381,136062,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+97.96771488,2337,46214,Clean,Low,Low,Low,"Oil Change, Fluid Check"
+99.22025308,2726,73304,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+94.39143362,2549,159289,Dirty,Optimal,Low,Normal,"Engine Maintenance, Filter Replacement, Fluid Check"
+94.86416921,816,137962,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+103.1931399,966,188518,Clean,Optimal,Low,Normal,"Engine Maintenance, Fluid Check"
+93.70851594,2891,141534,Clean,Optimal,Low,Low,"Engine Maintenance, Fluid Check"
+90.8919551,676,141373,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+102.7869327,1760,134144,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+95.8210428,2119,110680,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+99.43372811,1690,122938,Dirty,Optimal,Low,Normal,"Filter Replacement, Fluid Check"
+104.6248995,2810,27032,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+100.0903131,1946,18689,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+90.91422252,1754,142495,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+99.60858114,2128,125242,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+97.45312864,780,175538,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+95.46079363,1989,127005,Clean,Optimal,Good,Normal,
+99.9336464,987,195094,Dirty,Low,Good,Normal,"Filter Replacement, Oil Change"
+97.42304361,2064,19756,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+102.7431619,2080,91592,Clean,Optimal,Good,Low,"Engine Maintenance, Fluid Check"
+99.4342123,972,167737,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+99.94394261,792,76623,Clean,Optimal,Low,Low,Fluid Check
+97.39157729,2001,156926,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+99.14362481,870,99494,Dirty,Optimal,Good,Normal,Filter Replacement
+93.00913742,2711,198979,Dirty,Low,Low,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+100.6046387,2721,14209,Dirty,Optimal,Good,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.69738477,754,23426,Clean,Optimal,Good,Low,Fluid Check
+99.78393034,1095,83546,Dirty,Optimal,Good,Normal,Filter Replacement
+97.37146895,2142,117868,Clean,Optimal,Low,Normal,Fluid Check
+97.62697535,1272,131701,Clean,Optimal,Good,Low,Fluid Check
+97.13683011,1579,97193,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+101.6963184,2525,143151,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+91.42221111,2311,66282,Dirty,Low,Good,Low,"Filter Replacement, Oil Change, Fluid Check"
+91.35271273,2805,153407,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+97.64682791,1913,132396,Clean,Low,Good,Normal,Oil Change
+100.4897845,2544,42447,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+98.23167291,1514,147695,Clean,Optimal,Good,Normal,
+93.16990667,2605,76915,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+94.26896107,1530,106690,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+95.89788585,716,174970,Dirty,Optimal,Good,Normal,Filter Replacement
+97.63436594,2296,191212,Clean,Low,Good,Low,"Oil Change, Fluid Check"
+97.47699694,2165,135372,Dirty,Low,Low,Low,"Filter Replacement, Oil Change, Fluid Check"
+98.82799612,1782,144906,Dirty,Optimal,Low,Low,"Filter Replacement, Fluid Check"
+103.9420282,951,147697,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+92.10371184,1537,75357,Clean,Optimal,Good,Low,Fluid Check
+91.65013665,883,174108,Clean,Optimal,Good,Normal,
+95.23786618,1981,22766,Clean,Low,Low,Normal,"Oil Change, Fluid Check"
+101.2538356,2100,157414,Dirty,Low,Good,Normal,"Engine Maintenance, Filter Replacement, Oil Change"
+104.5149618,2432,59198,Dirty,Low,Low,Normal,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+103.8594699,650,185300,Clean,Optimal,Good,Normal,Engine Maintenance
+99.3770963,2755,168507,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+95.00159558,2621,61251,Dirty,Low,Good,Low,"Engine Maintenance, Filter Replacement, Oil Change, Fluid Check"
+101.2276997,1514,100888,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
+94.56244071,2500,152133,Dirty,Low,Low,Normal,"Filter Replacement, Oil Change, Fluid Check"
+98.0708071,2384,189298,Dirty,Optimal,Good,Low,"Filter Replacement, Fluid Check"
+98.63184411,2795,132335,Clean,Low,Low,Low,"Engine Maintenance, Oil Change, Fluid Check"
+96.56742409,2543,87761,Dirty,Optimal,Low,Low,"Engine Maintenance, Filter Replacement, Fluid Check"
+102.8896348,2724,30609,Dirty,Optimal,Good,Normal,"Engine Maintenance, Filter Replacement"
